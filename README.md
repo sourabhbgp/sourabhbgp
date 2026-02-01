@@ -1,4 +1,4 @@
-# Hey, I'm Sourabh Kumar 👋
+# Hey, I'm Sourabh 👋
 
 **Full Stack Developer** building browser extensions, AI agents & SaaS products.
 
