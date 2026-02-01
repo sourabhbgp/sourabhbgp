@@ -32,5 +32,4 @@ I'm always open to collaborating on interesting open source projects. If you're 
 <p>
   <a href="https://twitter.com/sourabhbgp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/sourabhbgp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sourabhbgp1994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
