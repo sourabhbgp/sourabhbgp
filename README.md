@@ -21,6 +21,14 @@ I love working with TypeScript and React, and I'm passionate about open source.
 
 ---
 
+### Projects
+
+**[ChromeXT](https://www.chromext.app/)** — A Chrome extension that automates flash sale purchases and auto-applies coupons to save money while shopping online.
+
+**[Lootkar](https://www.lootkar.com/)** — An AI-powered shopping assistant that scans bank offers and credit card benefits to find the best deals for Indian consumers.
+
+---
+
 ### Open Source
 
 I'm always open to collaborating on interesting open source projects. If you're building something cool with TypeScript, React, or browser extensions — let's connect!
