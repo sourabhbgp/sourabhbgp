@@ -21,15 +21,6 @@ I love working with TypeScript and React, and I'm passionate about open source.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhbgp&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhbgp&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ### Open Source
 
 I'm always open to collaborating on interesting open source projects. If you're building something cool with TypeScript, React, or browser extensions — let's connect!
@@ -38,6 +29,8 @@ I'm always open to collaborating on interesting open source projects. If you're 
 
 ### Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sourabhbgp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhbgp/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sourabhbgp1994@gmail.com)
+<p>
+  <a href="https://twitter.com/sourabhbgp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/sourabhbgp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sourabhbgp1994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
