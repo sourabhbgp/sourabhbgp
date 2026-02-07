@@ -5,7 +5,6 @@
 ### About Me
 
 - 7+ years building production software across startups and enterprise SaaS
-- Lead Frontend Engineer at **SupportLogic** (post-acquisition)
 - Currently diving deep into open source and the AI agent ecosystem
 - Based in Bengaluru, India
 
