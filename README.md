@@ -47,18 +47,6 @@
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhbgp&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbgp&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### Connect
 
 <p>
