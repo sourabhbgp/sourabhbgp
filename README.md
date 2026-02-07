@@ -1,6 +1,6 @@
 # Hey, I'm Sourabh 👋
 
-**Software Engineer with 7+ years of experience** building browser extensions, AI agents & SaaS products.
+7 years shipping software. Now building AI agents that do real work.
 
 ### About Me
 
