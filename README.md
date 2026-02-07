@@ -31,7 +31,7 @@
 - [chromext.app](https://www.chromext.app/) — Chrome extension for flash-sale automation. 5,000+ active users
 - [lootkar.com](https://www.lootkar.com/) — Multi-agent shopping assistant for Indian e-commerce (in development)
 - [sotto](https://github.com/sourabhbgp/sotto) — Voice input for Claude Code via local whisper.cpp
-- Contributing to [claude-code](https://github.com/anthropics/claude-code) and [motia](https://github.com/MotiaDev/motia)
+
 
 ---
 
