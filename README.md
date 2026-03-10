@@ -43,7 +43,7 @@
 
 ### What I'm Working On
 
-- **Twitter Agent** — Autonomous Twitter automation agent with AI orchestration, memory systems, and workflow management. Built with TypeScript. Going live soon. Involves agent memory, LLM orchestration, and tool use patterns.
+- **Twitter Agent** — CLI-first autonomous Twitter engagement agent built with Bun + TypeScript. Uses Claude for AI-driven engagement decisions. Features workflow-based automation, a multi-layer memory system (facts, observations, per-account CRM via Neo4j), cron-based scheduling with launchd/systemd/Docker daemon support, and a read-only Next.js monitoring dashboard. Coming soon as open source.
 
 ---
 
