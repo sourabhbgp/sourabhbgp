@@ -43,7 +43,18 @@
 
 ### What I'm Working On
 
-- **Twitter Agent** — CLI-first autonomous Twitter engagement agent built with Bun + TypeScript. Uses Claude for AI-driven engagement decisions. Features workflow-based automation, a multi-layer memory system (facts, observations, per-account CRM via Neo4j), cron-based scheduling with launchd/systemd/Docker daemon support, and a read-only Next.js monitoring dashboard. Coming soon as open source.
+**Twitter Agent** *(coming soon — open source)*
+
+CLI-first autonomous Twitter engagement agent. You define workflows (follower-growth, hashtag-niche, or custom), and the agent runs on autopilot — fetching your feed from three sources (mentions, timeline, keyword discovery), having Claude analyze each tweet, and taking actions (reply, like, quote, retweet, follow) within configurable rate limits.
+
+What makes it interesting:
+- **Workflow system** — Each workflow has its own strategy prompt, action biases (heavy/moderate/light per action type), feed filters, watch accounts, and isolated memory
+- **Graph memory (Neo4j)** — Tracks per-handle relationship strength, reply-back rates, topic history, and interaction patterns. This context is injected into Claude's system prompt so it knows "I've talked to this person 12 times about AI agents, they reply back 40% of the time"
+- **Scheduling** — Cron-based job scheduler with platform-native backends (launchd on macOS, systemd on Linux, in-process daemon for Docker). Set it and forget it
+- **Safety guardrails** — Spam pre-filtering, blocked account lists, session/daily action caps, global safety state shared across workflows
+- **Two modes** — Auto (Claude decides everything) and manual (interactive approve/edit/skip loop per tweet)
+
+Built with Bun, TypeScript, Commander.js, Anthropic SDK, and rettiwt-api. Includes a read-only Next.js dashboard for monitoring.
 
 ---
 
