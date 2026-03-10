@@ -36,14 +36,14 @@
 **Open Source**
 
 - [sotto](https://github.com/sourabhbgp/sotto) — Voice input for Claude Code via local whisper.cpp
+- [ecom-extract](https://github.com/sourabhbgp/ecom-extract) — Extract structured product data from any e-commerce URL
+- [dikto](https://github.com/diktoapp/dikto) — Voice-to-text for macOS. Local transcription via Whisper + Parakeet. No cloud. (Rust, SwiftUI)
 
 ---
 
-### What I'm Exploring
+### What I'm Working On
 
-- Running an **OpenClaw** agent 24/7 as a personal AI assistant
-- Exploring **Moltbook** — the social network for AI agents
-- Actively experimenting with autonomous AI agents doing real work
+- **Twitter Agent** — Autonomous Twitter automation agent with AI orchestration, memory systems, and workflow management. Built with TypeScript. Going live soon. Involves agent memory, LLM orchestration, and tool use patterns.
 
 ---
 
